@@ -1,0 +1,90 @@
+Form1_Load 2021/01/16 11:34:13.769 DrawTime =	68.2031	[ms]
+pictureBox1_MouseMove 2021/01/16 11:34:15.214 DrawTime =	85.5048	[ms] deltamove={X=-1,Y=2} mLeftTopMoveOffset.X=-1 mLeftTopMoveOffset.Y=2
+pictureBox1_MouseMove 2021/01/16 11:34:15.281 DrawTime =	58.0735	[ms] deltamove={X=-50,Y=54} mLeftTopMoveOffset.X=-51 mLeftTopMoveOffset.Y=56
+pictureBox1_MouseMove 2021/01/16 11:34:15.342 DrawTime =	51.4471	[ms] deltamove={X=-52,Y=41} mLeftTopMoveOffset.X=-103 mLeftTopMoveOffset.Y=97
+pictureBox1_MouseMove 2021/01/16 11:34:15.402 DrawTime =	49.7127	[ms] deltamove={X=-27,Y=19} mLeftTopMoveOffset.X=-130 mLeftTopMoveOffset.Y=116
+pictureBox1_MouseMove 2021/01/16 11:34:15.464 DrawTime =	51.7201	[ms] deltamove={X=-8,Y=6} mLeftTopMoveOffset.X=-138 mLeftTopMoveOffset.Y=122
+pictureBox1_MouseMove 2021/01/16 11:34:15.519 DrawTime =	45.94	[ms] deltamove={X=-4,Y=2} mLeftTopMoveOffset.X=-142 mLeftTopMoveOffset.Y=124
+pictureBox1_MouseMove 2021/01/16 11:34:15.578 DrawTime =	48.507	[ms] deltamove={X=-4,Y=3} mLeftTopMoveOffset.X=-146 mLeftTopMoveOffset.Y=127
+pictureBox1_MouseMove 2021/01/16 11:34:15.633 DrawTime =	45.3416	[ms] deltamove={X=-3,Y=2} mLeftTopMoveOffset.X=-149 mLeftTopMoveOffset.Y=129
+pictureBox1_MouseMove 2021/01/16 11:34:16.058 DrawTime =	57.0848	[ms] deltamove={X=1,Y=0} mLeftTopMoveOffset.X=-148 mLeftTopMoveOffset.Y=129
+pictureBox1_MouseMove 2021/01/16 11:34:16.118 DrawTime =	50.3625	[ms] deltamove={X=32,Y=-26} mLeftTopMoveOffset.X=-116 mLeftTopMoveOffset.Y=103
+pictureBox1_MouseMove 2021/01/16 11:34:16.182 DrawTime =	54.9495	[ms] deltamove={X=45,Y=-27} mLeftTopMoveOffset.X=-71 mLeftTopMoveOffset.Y=76
+pictureBox1_MouseMove 2021/01/16 11:34:16.249 DrawTime =	58.5211	[ms] deltamove={X=15,Y=-12} mLeftTopMoveOffset.X=-56 mLeftTopMoveOffset.Y=64
+pictureBox1_MouseMove 2021/01/16 11:34:16.315 DrawTime =	56.6591	[ms] deltamove={X=2,Y=-2} mLeftTopMoveOffset.X=-54 mLeftTopMoveOffset.Y=62
+pictureBox1_MouseWheel 2021/01/16 11:34:16.498 DrawTime =	80.2915	[ms]
+pictureBox1_MouseWheel 2021/01/16 11:34:16.567 DrawTime =	63.5025	[ms]
+pictureBox1_MouseWheel 2021/01/16 11:34:16.635 DrawTime =	62.3522	[ms]
+pictureBox1_MouseWheel 2021/01/16 11:34:16.699 DrawTime =	59.0776	[ms]
+pictureBox1_MouseWheel 2021/01/16 11:34:16.761 DrawTime =	56.681	[ms]
+pictureBox1_MouseWheel 2021/01/16 11:34:17.246 DrawTime =	77.7276	[ms]
+pictureBox1_MouseWheel 2021/01/16 11:34:17.314 DrawTime =	62.3604	[ms]
+pictureBox1_MouseWheel 2021/01/16 11:34:17.379 DrawTime =	59.6046	[ms]
+pictureBox1_MouseMove 2021/01/16 11:34:17.692 DrawTime =	68.2406	[ms] deltamove={X=1,Y=0} mLeftTopMoveOffset.X=-53 mLeftTopMoveOffset.Y=62
+pictureBox1_MouseMove 2021/01/16 11:34:17.765 DrawTime =	63.5825	[ms] deltamove={X=44,Y=-53} mLeftTopMoveOffset.X=-9 mLeftTopMoveOffset.Y=9
+pictureBox1_MouseMove 2021/01/16 11:34:17.836 DrawTime =	61.6103	[ms] deltamove={X=53,Y=-65} mLeftTopMoveOffset.X=44 mLeftTopMoveOffset.Y=-56
+pictureBox1_MouseMove 2021/01/16 11:34:17.904 DrawTime =	56.2475	[ms] deltamove={X=18,Y=-29} mLeftTopMoveOffset.X=62 mLeftTopMoveOffset.Y=-85
+pictureBox1_MouseMove 2021/01/16 11:34:17.966 DrawTime =	52.8097	[ms] deltamove={X=7,Y=-7} mLeftTopMoveOffset.X=69 mLeftTopMoveOffset.Y=-92
+pictureBox1_MouseMove 2021/01/16 11:34:18.540 DrawTime =	68.605	[ms] deltamove={X=-6,Y=3} mLeftTopMoveOffset.X=63 mLeftTopMoveOffset.Y=-89
+pictureBox1_MouseMove 2021/01/16 11:34:18.610 DrawTime =	59.4968	[ms] deltamove={X=-63,Y=24} mLeftTopMoveOffset.X=0 mLeftTopMoveOffset.Y=-65
+pictureBox1_MouseMove 2021/01/16 11:34:18.681 DrawTime =	62.0793	[ms] deltamove={X=-34,Y=0} mLeftTopMoveOffset.X=-34 mLeftTopMoveOffset.Y=-65
+pictureBox1_MouseMove 2021/01/16 11:34:18.749 DrawTime =	58.4032	[ms] deltamove={X=-3,Y=-3} mLeftTopMoveOffset.X=-37 mLeftTopMoveOffset.Y=-68
+mnuTest_Click 2021/01/16 11:34:19.460 DrawTime =	73.7837	[ms]
+Form1_Load 2021/01/16 11:45:02.113 DrawTime =	70.0081	[ms]
+pictureBox1_MouseMove 2021/01/16 11:45:03.175 DrawTime =	70.5438	[ms] deltamove={X=-1,Y=1} mLeftTopMoveOffset.X=-1 mLeftTopMoveOffset.Y=1
+pictureBox1_MouseMove 2021/01/16 11:45:03.255 DrawTime =	66.9349	[ms] deltamove={X=-23,Y=24} mLeftTopMoveOffset.X=-24 mLeftTopMoveOffset.Y=25
+pictureBox1_MouseMove 2021/01/16 11:45:03.327 DrawTime =	59.1957	[ms] deltamove={X=-50,Y=40} mLeftTopMoveOffset.X=-74 mLeftTopMoveOffset.Y=65
+pictureBox1_MouseMove 2021/01/16 11:45:03.396 DrawTime =	59.3795	[ms] deltamove={X=-23,Y=16} mLeftTopMoveOffset.X=-97 mLeftTopMoveOffset.Y=81
+pictureBox1_MouseMove 2021/01/16 11:45:03.465 DrawTime =	57.8064	[ms] deltamove={X=-8,Y=5} mLeftTopMoveOffset.X=-105 mLeftTopMoveOffset.Y=86
+pictureBox1_MouseMove 2021/01/16 11:45:03.532 DrawTime =	56.6859	[ms] deltamove={X=-6,Y=5} mLeftTopMoveOffset.X=-111 mLeftTopMoveOffset.Y=91
+pictureBox1_MouseMove 2021/01/16 11:45:03.600 DrawTime =	56.9206	[ms] deltamove={X=-7,Y=3} mLeftTopMoveOffset.X=-118 mLeftTopMoveOffset.Y=94
+pictureBox1_MouseMove 2021/01/16 11:45:03.953 DrawTime =	72.8747	[ms] deltamove={X=0,Y=-2} mLeftTopMoveOffset.X=-118 mLeftTopMoveOffset.Y=92
+pictureBox1_MouseMove 2021/01/16 11:45:04.055 DrawTime =	89.1082	[ms] deltamove={X=24,Y=-33} mLeftTopMoveOffset.X=-94 mLeftTopMoveOffset.Y=59
+pictureBox1_MouseMove 2021/01/16 11:45:04.136 DrawTime =	68.2963	[ms] deltamove={X=27,Y=-32} mLeftTopMoveOffset.X=-67 mLeftTopMoveOffset.Y=27
+pictureBox1_MouseMove 2021/01/16 11:45:04.216 DrawTime =	69.3821	[ms] deltamove={X=11,Y=-11} mLeftTopMoveOffset.X=-56 mLeftTopMoveOffset.Y=16
+mnuTest_Click 2021/01/16 11:45:05.124 DrawTime =	72.9644	[ms]
+Form1_Load 2021/09/29 07:32:20.754 DrawTime =	96.5358	[ms]
+pictureBox1_MouseMove 2021/09/29 07:32:22.281 DrawTime =	72.4019	[ms] deltamove={X=1,Y=0} mLeftTopMoveOffset.X=1 mLeftTopMoveOffset.Y=0
+pictureBox1_MouseMove 2021/09/29 07:32:22.357 DrawTime =	85.5647	[ms] deltamove={X=45,Y=63} mLeftTopMoveOffset.X=46 mLeftTopMoveOffset.Y=63
+pictureBox1_MouseMove 2021/09/29 07:32:22.420 DrawTime =	66.2137	[ms] deltamove={X=22,Y=20} mLeftTopMoveOffset.X=68 mLeftTopMoveOffset.Y=83
+pictureBox1_MouseMove 2021/09/29 07:32:22.498 DrawTime =	64.3212	[ms] deltamove={X=7,Y=7} mLeftTopMoveOffset.X=75 mLeftTopMoveOffset.Y=90
+pictureBox1_MouseMove 2021/09/29 07:32:22.576 DrawTime =	78.2791	[ms] deltamove={X=5,Y=7} mLeftTopMoveOffset.X=80 mLeftTopMoveOffset.Y=97
+pictureBox1_MouseMove 2021/09/29 07:32:23.480 DrawTime =	70.465	[ms] deltamove={X=-5,Y=-4} mLeftTopMoveOffset.X=75 mLeftTopMoveOffset.Y=93
+pictureBox1_MouseMove 2021/09/29 07:32:23.546 DrawTime =	65.396	[ms] deltamove={X=-51,Y=-75} mLeftTopMoveOffset.X=24 mLeftTopMoveOffset.Y=18
+pictureBox1_MouseMove 2021/09/29 07:32:23.611 DrawTime =	64.2163	[ms] deltamove={X=-26,Y=-35} mLeftTopMoveOffset.X=-2 mLeftTopMoveOffset.Y=-17
+pictureBox1_MouseMove 2021/09/29 07:32:23.675 DrawTime =	62.8704	[ms] deltamove={X=-1,Y=0} mLeftTopMoveOffset.X=-3 mLeftTopMoveOffset.Y=-17
+pictureBox1_MouseWheel 2021/09/29 07:32:23.943 DrawTime =	81.0052	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:24.015 DrawTime =	70.697	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:24.072 DrawTime =	63.9516	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:24.435 DrawTime =	72.6125	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:24.498 DrawTime =	67.6036	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:24.560 DrawTime =	68.6383	[ms]
+pictureBox1_MouseMove 2021/09/29 07:32:25.146 DrawTime =	88.6027	[ms] deltamove={X=0,Y=1} mLeftTopMoveOffset.X=-3 mLeftTopMoveOffset.Y=-16
+pictureBox1_MouseMove 2021/09/29 07:32:25.217 DrawTime =	70.3154	[ms] deltamove={X=-56,Y=26} mLeftTopMoveOffset.X=-59 mLeftTopMoveOffset.Y=10
+pictureBox1_MouseMove 2021/09/29 07:32:25.284 DrawTime =	65.6845	[ms] deltamove={X=-48,Y=26} mLeftTopMoveOffset.X=-107 mLeftTopMoveOffset.Y=36
+pictureBox1_MouseMove 2021/09/29 07:32:25.347 DrawTime =	62.4078	[ms] deltamove={X=-15,Y=10} mLeftTopMoveOffset.X=-122 mLeftTopMoveOffset.Y=46
+pictureBox1_MouseMove 2021/09/29 07:32:25.410 DrawTime =	62.0297	[ms] deltamove={X=0,Y=1} mLeftTopMoveOffset.X=-122 mLeftTopMoveOffset.Y=47
+pictureBox1_MouseWheel 2021/09/29 07:32:25.730 DrawTime =	69.0735	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:25.783 DrawTime =	52.5036	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:25.851 DrawTime =	51.9887	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:26.233 DrawTime =	68.085	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:26.296 DrawTime =	60.7164	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:26.342 DrawTime =	58.3986	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:26.546 DrawTime =	62.562	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:26.592 DrawTime =	57.5758	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:26.655 DrawTime =	55.5631	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:26.842 DrawTime =	61.5215	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:26.889 DrawTime =	54.8718	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:27.302 DrawTime =	80.3463	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:27.362 DrawTime =	59.5873	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:27.423 DrawTime =	60.7537	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:27.722 DrawTime =	71.0061	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:32:27.786 DrawTime =	63.2347	[ms]
+Form1_Load 2021/09/29 07:33:28.233 DrawTime =	87.0579	[ms]
+pictureBox1_MouseMove 2021/09/29 07:33:29.185 DrawTime =	93.286	[ms] deltamove={X=0,Y=0} mLeftTopMoveOffset.X=0 mLeftTopMoveOffset.Y=0
+pictureBox1_MouseMove 2021/09/29 07:33:29.288 DrawTime =	101.1105	[ms] deltamove={X=38,Y=41} mLeftTopMoveOffset.X=38 mLeftTopMoveOffset.Y=41
+pictureBox1_MouseMove 2021/09/29 07:33:29.394 DrawTime =	106.0291	[ms] deltamove={X=31,Y=27} mLeftTopMoveOffset.X=69 mLeftTopMoveOffset.Y=68
+pictureBox1_MouseMove 2021/09/29 07:33:29.539 DrawTime =	144.2684	[ms] deltamove={X=0,Y=0} mLeftTopMoveOffset.X=69 mLeftTopMoveOffset.Y=68
+pictureBox1_MouseWheel 2021/09/29 07:33:29.735 DrawTime =	78.3063	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:33:29.823 DrawTime =	87.1042	[ms]
+pictureBox1_MouseWheel 2021/09/29 07:33:30.014 DrawTime =	75.6017	[ms]
